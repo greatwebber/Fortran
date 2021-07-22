@@ -1,7 +1,7 @@
 PROGRAM Perimeter
 implicit none
 REAL::PREIMETER,C,A,B
-WRITE (*,'(a)')'AWOSANMI OLUWATOBILOBA CS20190201908'
+WRITE (*,'(a)')'FULL NAME CS2019XXXXXX'
 write (*,'(a)')'Enter value A'
 Read (*,10)A
 10 FORMAT (I2)
