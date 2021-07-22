@@ -2,7 +2,7 @@ program Angle_of_Triangle
     implicit none
     INTEGER::B,H
     REAL::area
-    WRITE (*,'(a)')'AWOSANMI OLUWATOBILOBA CS20190201908'
+    WRITE (*,'(a)')'FULL NAME CS2019XXXXXX'
     write (*,'(a)')'Enter Value B'
     Read (*,10)B
     10 FORMAT(I2)
